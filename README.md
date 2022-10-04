@@ -1,6 +1,6 @@
 ### Hi, I'm Atakan 👋 
 
-<img align='right' src="https://octodex.github.com/images/NUX_Octodex.gif" width="300">
+<img align='right' src="https://octodex.github.com/images/inspectocat.jpg" width="300">
  
 **About me**
 - 🔭 I’m working as a **Frontend Developer**.
